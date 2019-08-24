@@ -1,0 +1,89 @@
+shared links
+http://forex-indicators.net/mt4-indicators
+https://www.best-metatrader-indicators.com/tag/volume-indicators/
+https://www.mql5.com/en/code/mt5/indicators
+https://www.ea-coder.com/forex-repainting-indicators/
+https://www.myfxbook.com/forex-calculators/position-size
+http://fxprosystems.com/candlestick-dashboard/
+https://www.mql5.com/en/code/mt5/indicators/page103
+https://www.forexstrategiesresources.com
+https://www.mql5.com/en/market/product/5914
+https://ateentrader.com/chart-patterns-ftb-ftr/
+http://asgharfx.com/category/mt4-indicators/
+https://forexmt4systems.com/mt4-indicators/
+http://forex-indicators.net/list
+https://www.forexfactory.com/showthread.php?t=175600&page=4
+http://forexmt4indicators.com
+https://forexmt4indicators.net
+
+shared indicators / trading strategies
+hull ma
+PipTick Volume
+VAAtrVsa
+Waddah Attar Explosion indicator
+Expected Volumes indicator.
+Price and Volume Trend (PVT) 
+Volatility quality - zero line
+ZerolagStochs
+Intraday Intensity Index
+Volatility Quality ZL
+delta volume indicator 
+squeeze break
+weis wave volume indicator
+vortex indicator
+super trend
+demarker
+tdi ( the Louis Tuan version)
+Chaikin oscillator
+On balance Volume
+dynamic cycle explorer 
+vertex over dynamic cycle
+woodies
+cci on 50 and then 10/100 ema
+Klinger Volume Oscillator
+Klinger Oscillator KVO
+Ehlers indi's
+Ehlers Leading Indicator
+Ehlers Instantaneous Trend indicator
+the Spearman
+Linear Momentum
+Volume Vs distance
+ZUP - Universal ZigZag with Pesavento patterns.
+STC
+High HiGH HiGH Lo 
+pcci indicator
+zero lag macd
+roc
+trend signal
+didi indicator
+SchaffTrendCycle
+Keltner channel oscillator
+TRIX indicator
+bandpass indicator
+center of gravity
+FTB first time back
+PZ Harmonics
+MTF
+AO (awsome osiliator)
+SFX Tor
+relative vigor index
+zero cross renko indicator
+rvi9
+OsMA
+mega trends
+Choppiness index
+Waddah Attar histogram
+Trend Identificator
+Volume Convergence
+Holly channel
+holly signal
+Congestion index 
+Alpha Trend 
+Awesome oscillator
+PZ Tradepad
+diamiani volatmete
+1) D1 using MACD showing overall trend
+2) H1 using Williams % R for entry point.
+Absolute Strength Histogram (ASH), Wattah and Silence indicators
+PZ_Harmonic
+TIPU MACD and the CAP Channel 

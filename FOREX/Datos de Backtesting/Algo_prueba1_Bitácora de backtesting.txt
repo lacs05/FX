@@ -1,0 +1,4 @@
+V1 - Es el algoritmo con el indicador ASH de confirmación y el indicador RVI como exit
+	Ganancia neta: -10.67$		%exactitud:90%		Periodo:1 año
+V1.1 - Se agrega una función de exit al RVI segun el tipo de operación
+	Ganancia neta: 15$		%exactitud:90%		Periodo:1 año
